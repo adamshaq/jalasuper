@@ -1,0 +1,31 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class LoginHistory extends Model{
+    protected $table        = 'login_history';
+    protected $primaryKey   = 'login_history_id'; 
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+       'user_id',
+        'jwt_token',
+        'datetime_login',
+        'datetime_logout',
+        'ip_address',
+        'mac_address'
+    ];
+
+    /**
+     * The attributes that should be hidden for arrays.
+     *
+     * @var array
+     */
+    protected $hidden = [];
+}

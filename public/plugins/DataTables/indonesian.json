@@ -1,0 +1,24 @@
+{
+    "paginate": {
+        "first":  "Pertama", 
+        "next":  "Selanjutnya &rarr;", 
+        "previous":  "&larr; Sebelumnya",
+        "last":  "Terakhir"
+    },
+    "processing": "<i class='icon-spinner2 spinner'></i> Memuat Data <i class='icon-spinner2 spinner'></i>",
+    "lengthMenu": "Menampilkan _MENU_ data per halaman",
+    "zeroRecords": "<i class='icon-database-remove'></i> Maaf, Data Tidak Ditemukan. Silakan Ulangi Pencarian <i class='icon-database-remove'></i> ",
+    "emptyTable": "Tidak Ada Data Untuk Ditampilkan",
+    "infoEmpty": "Tidak Ada Data Untuk Ditampilkan",
+    "infoFiltered": "(disaring dari _MAX_ data)",
+    "info": "Menampilkan halaman _PAGE_ dari _PAGES_",
+    "decimal": "",
+    "infoPostFix": "",
+    "thousands": ",",
+    "loadingRecords": "<i class='icon-spinner2 spinner'></i> Memuat Data <i class='icon-spinner2 spinner'></i>",
+    "search": "pencarian:",
+    "aria": {
+        "sortAscending": ": activate to sort column ascending",
+        "sortDescending": ": activate to sort column descending"
+    }
+}

@@ -1,0 +1,43 @@
+26 februari 2020
+1. Aplikasi bisa diakses oleh kanwil 
+    - user tp kanwil 
+    - menampilkan register yang diteruskan ke kanwil (V)
+2. fitur chat satu arah diubah jadi chat 2 arah
+3. keamanan data, pencarian menggunakan no surat dan nama (V)
+4. input form untuk permohonan via pos (V)
+5. otentifikasi untuk beberapa jenis permohonan tertentu
+
+
+23 februari 2020
+1. Hasil Pencarian Surat, keterangan status Surat
+    - Dalam Antrian -> Dalam Proses (V)
+    - Telah diteruskan ke kanwil .... (V)
+2. tambah keterangan
+    - permohonan penjelasan hubungi no telepon ....(no telp KPP) (V)
+3. sediakan ruang respon "chat" (V)
+4. Halaman setelah login (V)
+    - total   
+    - belum Proses
+    - mendesak
+    - selesai
+5. menu statistik surat & generate sms pencarian by range tangal (V)
+6. isi sms, kata "surat anda " => "permohonan anda" (V)
+7. scroll & pencarian KPP pengguna (V)
+8. tambah kanal upload "infomon SPT LN" (V)
+
+
+13 Agustus 2020
+
+Bentuk: tabel
+
+Judul tabel : Data Pantauan Pemindaian Surat Keterangan Penelitian Formal Bukti Pemenuhan Kewajiban Penyetoran PPh Penjualan Tanah
+
+Isi kolom:
+- Nomor
+- Nomor BPS
+- tanggal
+- nama
+- tgl pindai
+- waktu pindai
+- tindakan
+- pemindai
